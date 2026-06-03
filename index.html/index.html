@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Busca Livros - Professional</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <div class="logo">
+                <i class="fas fa-book-open"></i>
+                <h1>BuscaLivros</h1>
+            </div>
+            <p>Encontre livros facilmente</p>
+        </div>
+    </header>
+
+    <main>
+        <!-- Seção de Busca Principal -->
+        <section class="search-section">
+            <div class="search-card">
+                <h2><i class="fas fa-search"></i> Buscar Livros</h2>
+                
+                <div class="search-box">
+                    <input type="text" id="searchInput" placeholder="Digite título, autor ou palavra-chave..." autocomplete="off">
+                    <button id="searchBtn" class="btn-buscar">
+                        <i class="fas fa-search"></i> Buscar
+                    </button>
+                </div>
+
+                <div class="filters-simples">
+                    <select id="maxResultsSelect">
+                        <option value="10">10 resultados</option>
+                        <option value="20" selected>20 resultados</option>
+                        <option value="30">30 resultados</option>
+                    </select>
+                </div>
+            </div>
+        </section>
+
+        <!-- Loading -->
+        <div id="loading" class="loading hidden">
+            <i class="fas fa-spinner fa-spin"></i> Buscando livros...
+        </div>
+
+        <!-- Resultados -->
+        <div id="resultados" class="resultados-grid"></div>
+
+        <!-- Mensagem de vazio -->
+        <div id="vazio" class="vazio hidden">
+            <i class="fas fa-book"></i>
+            <p>Nenhum livro encontrado. Tente outra busca!</p>
+        </div>
+    </main>
+
+    <footer>
+        <p>Dados fornecidos por <strong>Google Books API</strong></p>
+        <p>BuscaLivros - Sua busca por livros</p>
+    </footer>
+
+    <!-- Modal de detalhes -->
+    <div id="modal" class="modal hidden">
+        <div class="modal-content">
+            <span class="fechar">&times;</span>
+            <div id="modalCorpo"></div>
+        </div>
+    </div>
+
+    <script src="js/classes.js"></script>
+    <script src="js/api.js"></script>
+    <script src="js/dom.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
