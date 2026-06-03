@@ -67,8 +67,9 @@ Um aplicativo front-end desenvolvido com **JavaScript puro** que oferece uma int
 - Navegador web moderno (Chrome, Firefox, Edge, Safari)  
 - Conexão com internet
 
-#Licença
+# Licença
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
-##Autor
-Seu Nome - @jovioli5
+
+## Autor
+ @jovioli5
 
