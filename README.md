@@ -16,17 +16,13 @@ Layout totalmente responsivo
 
 ## Estrutura do Projeto
 
-- BuscaLivros/ 
-- index.html # Estrutura principal
-- css/style.css # Estilos completos
-- js/ classes.js # Classes Livro e ResultadoBusca
-
-  / api.js # Comunicação com API
-
-  /  dom.js # Manipulação do DOM
-
-  /   main.js # Orquestração principal
-- README.md # Documentação
+- BuscaLivros> index.html # Estrutura principal
+> css> style.css # Estilos completos
+> js > classes.js # Classes Livro e ResultadoBusca
+     > api.js # Comunicação com API 
+     >  dom.js # Manipulação do DOM
+     >   main.js # Orquestração principal
+> README.md # Documentação
 
 ##  Diferenciais
 
