@@ -21,9 +21,12 @@ Layout totalmente responsivo
 > css> style.css # Estilos completos
 
 > js > classes.js # Classes Livro e ResultadoBusca
-     > api.js # Comunicação com API 
-     >  dom.js # Manipulação do DOM
-     >   main.js # Orquestração principal
+
+> api.js # Comunicação com API 
+
+>  dom.js # Manipulação do DOM
+     
+>   main.js # Orquestração principal
 
 > README.md # Documentação
 
