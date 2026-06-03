@@ -39,6 +39,6 @@ Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais info
 
 ## Autor
 - Desenvolvido por JVicente - @jovioli5
- - GitHub: https:github.com/jovioli5/BuscaLivros
+- GitHub: https:github.com/jovioli5/BuscaLivros
 
 
