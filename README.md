@@ -39,7 +39,7 @@ Google Fonts (Inter) - Tipografia moderna
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
 
 ## Autor
-Desenvolvido por JVicente - @jovioli5
-GitHub: https:github.com/jovioli5/BuscaLivros
+# Desenvolvido por JVicente - @jovioli5
+# GitHub: https:github.com/jovioli5/BuscaLivros
 
 
