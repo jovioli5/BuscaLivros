@@ -71,5 +71,5 @@ Um aplicativo front-end desenvolvido com **JavaScript puro** que oferece uma int
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
 
 ## Autor
- @jovioli5
+JVicente - @jovioli5
 
