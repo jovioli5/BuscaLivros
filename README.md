@@ -17,6 +17,7 @@ Layout totalmente responsivo
 
 ## Estrutura do Projeto
 BuscaLivros/
+
 ├── index.html # Estrutura principal
 
 ├── css/
