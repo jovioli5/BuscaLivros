@@ -25,15 +25,19 @@ Sem dependências externas — apenas HTML, CSS e JavaScript puro
 - CSS3 -  Flexbox, Grid, animações e design responsivo
 - JavaScript ES6+  - Async/Await, Classes, Módulos, API Fetch 
 - API do Google Books - Fonte dos dados dos livros
+- Font Awesome 6.5.1
 - Google Fonts (Inter) - Tipografia moderna 
 
 ##  Como Executar
 
 ## Pré-requisitos
 
-- Navegador web moderno (Chrome, Firefox, Edge, Safari)  
 - Conexão com internet
+- Navegador web moderno (Chrome, Firefox, Edge, Safari)  
 - Clonar: https://github.com/jovioli5/BuscaLivros.git
+- Abrir o arquivo ìndex.html`no navegador
+- Digite um termo e clique em "Buscar"
+
 
 ## Licença
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
