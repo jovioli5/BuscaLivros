@@ -19,7 +19,7 @@ Layout totalmente responsivo
 Orientação a objetos — Classes `Livro` e `ResultadoBusca`  
 Sem dependências externas — apenas HTML, CSS e JavaScript puro  
 
-# Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - HTML5 - Estrutura semântica da página 
 - CSS3 -  Flexbox, Grid, animações e design responsivo
@@ -29,12 +29,12 @@ Sem dependências externas — apenas HTML, CSS e JavaScript puro
 
 ##  Como Executar
 
-### Pré-requisitos
+## Pré-requisitos
 
 - Navegador web moderno (Chrome, Firefox, Edge, Safari)  
 - Conexão com internet
 
-# Licença
+## Licença
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
 
 ## Autor
