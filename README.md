@@ -7,7 +7,6 @@ Uma aplicação web simples para busca de livros utilizando a API do Google Book
 
 Um aplicativo front-end desenvolvido com **JavaScript puro** que oferece uma interface limpa, responsiva e de fácil utilização.
 
-
 ##  Funcionalidades
 
 Busca por título, autor ou palavra-chave  
@@ -20,7 +19,7 @@ Layout totalmente responsivo
 Orientação a objetos — Classes `Livro` e `ResultadoBusca`  
 Sem dependências externas — apenas HTML, CSS e JavaScript puro  
 
-### Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 - HTML5 - Estrutura semântica da página 
 - CSS3 -  Flexbox, Grid, animações e design responsivo
