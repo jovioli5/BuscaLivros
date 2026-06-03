@@ -33,6 +33,7 @@ Sem dependências externas — apenas HTML, CSS e JavaScript puro
 
 - Navegador web moderno (Chrome, Firefox, Edge, Safari)  
 - Conexão com internet
+- Clonar: https://github.com/jovioli5/BuscaLivros.git
 
 ## Licença
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
