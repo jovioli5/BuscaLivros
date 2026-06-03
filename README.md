@@ -14,20 +14,16 @@ Seleção de quantidade de resultados (10, 20 ou 30)
 Cartões simplificados com título e autor  
 Layout totalmente responsivo  
 
-
 ## Estrutura do Projeto
 
-BuscaLivros/ index.html # Estrutura principal
-
+BuscaLivros/ 
+index.html # Estrutura principal
 css/style.css # Estilos completos
-
 js/ classes.js # Classes Livro e ResultadoBusca
-    api.js # Comunicação com API
-    dom.js # Manipulação do DOM
-     main.js # Orquestração principal
-     README.md # Documentação
-
-
+  / api.js # Comunicação com API
+  /  dom.js # Manipulação do DOM
+  /   main.js # Orquestração principal
+README.md # Documentação
 
 ##  Diferenciais
 
