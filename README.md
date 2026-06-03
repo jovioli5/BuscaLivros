@@ -22,11 +22,11 @@ Sem dependências externas — apenas HTML, CSS e JavaScript puro
 
 ##  Tecnologias Utilizadas
 
-HTML5 - Estrutura semântica da página 
-CSS3 -  Flexbox, Grid, animações e design responsivo
-JavaScript ES6+  - Async/Await, Classes, Módulos, API Fetch 
-API do Google Books - Fonte dos dados dos livros
-Google Fonts (Inter) - Tipografia moderna 
+- HTML5 - Estrutura semântica da página 
+- CSS3 -  Flexbox, Grid, animações e design responsivo
+- JavaScript ES6+  - Async/Await, Classes, Módulos, API Fetch 
+- API do Google Books - Fonte dos dados dos livros
+- Google Fonts (Inter) - Tipografia moderna 
 
 ##  Como Executar
 
