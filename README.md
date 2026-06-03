@@ -20,7 +20,7 @@ Layout totalmente responsivo
 Orientação a objetos — Classes `Livro` e `ResultadoBusca`  
 Sem dependências externas — apenas HTML, CSS e JavaScript puro  
 
-##  Tecnologias Utilizadas
+### Tecnologias Utilizadas
 
 - HTML5 - Estrutura semântica da página 
 - CSS3 -  Flexbox, Grid, animações e design responsivo
